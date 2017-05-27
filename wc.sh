@@ -15,7 +15,7 @@ Example:
 	
 	The First Colunm contain the description,second column contain the filename and the third column is for operation you need to perform, like word line count,word counts.
 
-	For Counting file lines use count_line operation.
+	For Counting file lines use line_count operation.
 	For Counting word count use word_count operation.
 "
 
